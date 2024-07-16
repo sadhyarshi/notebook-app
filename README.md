@@ -11,3 +11,6 @@ HTML/CSS
 Getting Started
 Prerequisites
 Node.js and npm installed on your machine.
+
+
+![notebook app](https://github.com/user-attachments/assets/20ca9223-20aa-4e4a-bb54-2123b5751422)
