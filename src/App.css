@@ -34,6 +34,8 @@ input {
 input:focus {
   border-color: #007bff;
   outline: none;
+  padding: 5px;
+
 }
 
 button {
@@ -80,4 +82,9 @@ li button {
 
 li button:hover {
   background-color: #c82333;
+  padding: 8px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
 }
